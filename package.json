@@ -1,0 +1,4 @@
+mkdir finance-tracker
+cd finance-tracker
+npm init -y
+npm install express mongoose dotenv ejs body-parser
